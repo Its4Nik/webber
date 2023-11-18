@@ -25,7 +25,7 @@ Welcome to Webber, a bash script designed to help you manage and create web cont
 1. Clone the Webber repository to your local machine.
 	
 ```bash
-git clone https://github.com/itsnik/Webber.git
+git clone https://github.com/Its4Nik/webber.git
 cd Webber
 ```
 	
@@ -75,4 +75,4 @@ Follow the prompts to confirm the uninstallation.
 
 Webber is created and maintained by ItsNik. Feel free to reach out for any questions or feedback.
 
-Thank you for using Webber! If you encounter any issues or have suggestions for improvement, please open an issue on the [GitHub repository](https://github.com/itsnik/Webber).
+Thank you for using Webber! If you encounter any issues or have suggestions for improvement, please open an issue on the [GitHub repository](https://github.com/Its4Nik/webber).
